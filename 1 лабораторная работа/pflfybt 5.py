@@ -1,0 +1,6 @@
+number= int(input('введите число которе возводится в степень '))
+number1= int(input('введите степень '))
+print('число',number,'в квадрате', number**2)
+print('число',number,'в кубе', number**3)
+print('число',number,'в степени',number1, number**number1)
+print('число 2 в cтепени ', number1, 2**number1)
